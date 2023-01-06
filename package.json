@@ -1,0 +1,22 @@
+{
+  "name": "odin-tdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylertran349/odin-tdd-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylertran349/odin-tdd-practice/issues"
+  },
+  "homepage": "https://github.com/tylertran349/odin-tdd-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2"
+  }
+}
